@@ -1,5 +1,6 @@
-  # Welcome 🎉 I am Aditya
-- 👋 Hi, I am Aditya Pratap Singh
+  # 🙏 🙏 Welcome,😎 I'm Aditya ! 
+  ## Knock,Knock!! 😊😊🥰
+- 👋 Hi, I'm Aditya Pratap Singh! 
 - 👀 I’m interested in Python Developer & Full-Stack Web Developer.
 - 🌱 I’m currently learning django,React,AI,ML,Data Science
 - 💞️ I’m looking to collaborate on ...
