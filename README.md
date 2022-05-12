@@ -1,4 +1,4 @@
-![image_processing20220204-8570-ol82br](https://user-images.githubusercontent.com/68802755/168085223-78734459-a98d-4d5c-a793-408ba7c107a0.png)
+![Open (1)](https://user-images.githubusercontent.com/68802755/168153352-af064528-0a80-4b3b-a0e8-bcd01d67ba89.png)
 
 <h1 align="center">Hi 👋, I'm Aditya Pratap Singh</h1>
 <h3 align="center">Python Developer || Full-Stack Web Developer || django Developer || React Developer</h3>
