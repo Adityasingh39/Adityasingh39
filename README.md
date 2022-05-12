@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **wonderfull year full of opportunities.**
 
-- 👨‍💻 All of my projects are available at [adityasingh39.github.io/portfolio.github.io/](adityasingh39.github.io/portfolio.github.io/)
+- 👨‍💻 All of my projects are available at  https://adityasingh39.github.io/A-portfolio.github.io/
 
 - 💬 Ask me about **Python, Java, JavaScript, php**
 
