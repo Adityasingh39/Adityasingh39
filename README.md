@@ -1,9 +1,8 @@
-  # 🙏🙏 Welcome,😎 I'm Aditya ! 
  
 <h1 align="center">Hi 👋, I'm Aditya Pratap Singh</h1>
 <h3 align="center">Python Developer || Full-Stack Web Developer || django Developer || React Developer</h3>
 
-<img align ="right" src="https://dribbble.com/shots/4502924-Python-developer-animation.gif" alt="" width="400">
+<img align ="right" src="https://dribbble.com/shots/4502924-Python-developer-animation/attachments/10432197?mode=media" alt="" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasingh39&label=Profile%20views&color=0e75b6&style=flat" alt="adityasingh39" /> </p>
 
