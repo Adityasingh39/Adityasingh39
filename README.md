@@ -1,7 +1,8 @@
-![image_processing20220204-32117-q5tlwy](https://user-images.githubusercontent.com/68802755/168083994-28114105-2e07-46a4-bc20-943581f9f1e0.png)
+![image_processing20220204-8570-ol82br](https://user-images.githubusercontent.com/68802755/168085223-78734459-a98d-4d5c-a793-408ba7c107a0.png)
+
 <h1 align="center">Hi 👋, I'm Aditya Pratap Singh</h1>
 <h3 align="center">Python Developer || Full-Stack Web Developer || django Developer || React Developer</h3>
-<img align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" alt="code" width="350">
+<img align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" alt="code" width="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasingh39&label=Profile%20views&color=0e75b6&style=flat" alt="adityasingh39" /> </p>
 
