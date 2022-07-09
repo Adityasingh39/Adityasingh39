@@ -27,7 +27,7 @@
 <a href="https://www.youtube.com/c/coding hub tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coding hub tech" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@_aditya_singh_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@_aditya_singh_20" height="30" width="40" /></a>
 </p>
-<a href="https://www.codechef.com/users/aditya_39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@_aditya_singh_20" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/aditya_39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="aditya39" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
